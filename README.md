@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span style='font-family:courier new;font-weight:bold;font-size:16px'>
 
 # Welcome!👋
 
-## About Me :koala: :seedling:  
-* Graduate Student in Interdisciplinary Oncology 
-* Research/career interests: :space_invader: computational pathology, :microscope: image analysis, :computer: data science  
-* 
-</span>
+## Who am I? :koala: :seedling:  
+* :computer: Digital Pathology/Computational Medicine Researcher 
+* :book: Research/career interests: :space_invader: computational pathology, :microscope: image analysis, :computer: data science  
+* :mortar_board: **Graduate Student in Interdisciplinary Oncology at [BCCRC](https://www.bccrc.ca/dept/io/labs/guillaud-lab) \[Current\]**
+* :mortar_board: Bachelor's in Medical Laboratory Science at the University of British Columbia \[2018-2022\]
+* Academia, data, gaming, programming enthusiast
+
