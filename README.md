@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## Who am I? :koala: :seedling:  
 ### Career :scientist: :microscope:
-:computer: Digital Pathology/Computational Medicine Researcher 
-:book: Research/career interests: :space_invader: computational pathology, :microscope: image analysis, :computer: data science  
+:computer: Digital Pathology/Computational Medicine Researcher   
+:book: Research/career interests: :space_invader: computational pathology, :microscope: image analysis, :computer: data science    
 ### Education :school:
-:mortar_board: **Graduate Student in Interdisciplinary Oncology at [BCCRC](https://www.bccrc.ca/dept/io/labs/guillaud-lab) \[Current\]**
-:mortar_board: Bachelor's in Medical Laboratory Science at the University of British Columbia \[2018-2022\]
+:mortar_board: **Graduate Student in Interdisciplinary Oncology at [BCCRC](https://www.bccrc.ca/dept/io/labs/guillaud-lab) \[Current\]**  
+:mortar_board: Bachelor's in Medical Laboratory Science at the University of British Columbia \[2018-2022\]  
 :star2: Academia, data, gaming, programming enthusiast
 
