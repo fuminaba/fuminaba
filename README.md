@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 # Welcome!👋
 
 ## Who am I? :koala: :seedling:  
+### Career 
 * :computer: Digital Pathology/Computational Medicine Researcher 
 * :book: Research/career interests: :space_invader: computational pathology, :microscope: image analysis, :computer: data science  
+### Education
 * :mortar_board: **Graduate Student in Interdisciplinary Oncology at [BCCRC](https://www.bccrc.ca/dept/io/labs/guillaud-lab) \[Current\]**
 * :mortar_board: Bachelor's in Medical Laboratory Science at the University of British Columbia \[2018-2022\]
-* Academia, data, gaming, programming enthusiast
+* :star2: Academia, data, gaming, programming enthusiast
 
