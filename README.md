@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my GitHub :octocat:👋!
-[Check out my CV!](Documents/CV%20-%20June%202023.pdf)
+[Check out my CV!](https://fuminaba.github.io/Pages/CV%20-%20June%202023.pdf)
 ## **:seedling: Who am I? :koala:**   
 ### **:scientist: Title :microscope: Digital Pathology/Computational Medicine Researcher**   
 #### :atom: Topics:   
