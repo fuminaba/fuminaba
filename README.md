@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome!👋
-
+# Welcome to my GitHub :octocat:👋!
+[Check out my CV!](Documents/CV%20-%20June%202023.pdf)
 ## **:seedling: Who am I? :koala:**   
 ### **:scientist: Title :microscope: Digital Pathology/Computational Medicine Researcher**   
-#### Topics:   
+#### :atom: Topics:   
 * :framed_picture: Image analysis
 * :computer: Data science in medicine
 
-#### Research Interests:    
+#### :mag: Research Interests:    
 * :computer: Emerging data science/digital pathology technologies
 * :dna: Cancer Research (Oncology)
 * :space_invader: Machine learning, deep learning, statistical analysis
@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 * :mag: Research project - nucleus instance segmentation, feature-based clustering, classification - predictive prognosis  
 * :book: Learning more about data science and deep learning online   
 * :microscope: Diving into the field of digital pathology through literature searches, and getting involved in research   
+
+:video_game: My hobbies:  
+* :8ball: Pool/billiards
+* :video_game: Videogames  
+* :tea: Tea/Matcha
 
 ## **:white_check_mark: Some of my goals:  :earth_asia:**  
 * :earth_asia: Travel over the world, interact, and experience   
