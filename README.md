@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 * :mag: Research project - nucleus instance segmentation, feature-based clustering, classification - predictive prognosis  
 * :book: Learning more about data science and deep learning online   
 * :microscope: Diving into the field of digital pathology through literature searches, and getting involved in research   
+* :artificial_satellite: Building my personal website!
 
 :video_game: My hobbies:  
 * :8ball: Pool/billiards
