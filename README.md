@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fuminaba/fuminaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<span style='font-family:courier new;font-weight:bold;font-size:16px'>
+
+# Welcome!👋
+
+## About Me :koala: :seedling:  
+* Graduate Student in Interdisciplinary Oncology 
+* Research/career interests: :space_invader: computational pathology, :microscope: image analysis, :computer: data science  
+* 
+</span>
