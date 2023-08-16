@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## Who am I? :koala: :seedling:  
 ### Career :scientist: :microscope:
-:computer: **Digital Pathology/Computational Medicine Researcher**   
-:atom: Topics: 
+#### :computer: **Digital Pathology/Computational Medicine Researcher**   
+Topics: :atom:  
 * :framed_picture: Image analysis
 * :computer: data science in medicine
 
-:book: Research Interests:
+Research Interests: :book:  
 * :computer: Emerging data science/digital pathology technologies
 * :dna: Cancer Research (Oncology)
 * :space_invader: Machine learning, deep learning, statistical analysis
