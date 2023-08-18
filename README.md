@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to my GitHub :octocat:👋!
-[Check out my CV!](https://fuminaba.github.io/Pages/CV%20-%20June%202023.pdf)
+<!--[Check out my CV!](https://fuminaba.github.io/Pages/CV%20-%20June%202023.pdf)-->
+<a href='https://www.kaggle.com/fumiyainaba'><img src='Images/Kaggle_logo.png' width='75px'></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://fuminaba.github.io'><img src='Images/Fumiya Inaba sweet_green.png' height='40px'/></a>
 ## **:seedling: Who am I? :koala:**   
 ### **:scientist: Digital Pathology/Computational Medicine Researcher** :microscope:   
 #### :atom: Topics:   
