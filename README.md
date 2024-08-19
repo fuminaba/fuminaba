@@ -5,10 +5,11 @@ In terms of coding style, all code will follow the google style guide for the re
 
 ## Techstack
 My research is in digital pathology image analysis, and involves the use of convolutional neural networks, predictive algorithms and statistics/data exploration. My main techstack is Python and SQL. In particular, I utilize the `tensorflow` and `scikit-learn` frameworks in my research. I have also used frameworks like `tidyverse`, `tidymodels`/`caret` for statistical analysis and predictive modelling.
-
-<img src = "Images/tensorflow_logo.png" height = 75px />  
-<img src="Images/scikit-learn-logo.svg" height = 75px/>
-<img src="Images/Tidyverse_hex_logo.png" height = 75px />
+<div style = 'display:inline;'>
+    <img src = "Images/tensorflow_logo.png" height = 75px />  
+    <img src="Images/scikit-learn-logo.svg" height = 75px/>
+    <img src="Images/Tidyverse_hex_logo.png" height = 75px />
+</div> 
 
 All code follows the [google style guide](https://google.github.io/styleguide/pyguide.html#s3.2-line-length) for Python.
 
