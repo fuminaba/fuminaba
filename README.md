@@ -1,36 +1,14 @@
-<!--
-**fuminaba/fuminaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Welcome to my GitHub :octocat:👋!
-## **Introduction**   
-### **Digital Pathology/Oncology - Machine Learning & Deep Learning in Medicine**
-#### Research Interests:   
-* Image analysis and processing
-* Emerging data science/digital pathology technologies
-* Cancer Research (Oncology)
-* Machine learning, deep learning, statistical analysis
+## Projects and Guidelines  
+Projects included on my GitHub repository are for my research projects which may or may not be made public.   
+In terms of coding style, all code will follow the google style guide for the respective language where defined. Otherwise coding style will follow google-like syntax or the official documentation of that language. 
 
-### Education
-* **Graduate Student in Interdisciplinary Oncology at [BCCRC](https://www.bccrc.ca/dept/io/labs/guillaud-lab) \[Current\]**  
-* Bachelor's in Medical Laboratory Science at the University of British Columbia \[2018-2022\]  
-* Academia, data, gaming, programming enthusiast
+## Techstack
+My research is in digital pathology image analysis, and involves the use of convolutional neural networks, predictive algorithms and statistics/data exploration. My main techstack is Python and SQL. In particular, I utilize the `tensorflow` and `scikit-learn` frameworks in my research. I have also used frameworks like `tidyverse`, `tidymodels`/`caret` for statistical analysis and predictive modelling.
 
-## **What am I up to?** 
-What I'm currently up to...   
-* Research project - nucleus instance segmentation, feature-based clustering, classification - predictive prognosis  
-* Learning more about data science and deep learning online   
-* Diving into the field of digital pathology through literature searches, and getting involved in research   
-* Building my personal website!
+<img src = "Images/tensorflow_logo.png" height = 75px />  
+<img src="Images/scikit-learn-logo.svg" height = 75px/>
+<img src="Images/Tidyverse_hex_logo.png" height = 75px />
+
+All code follows the [google style guide](https://google.github.io/styleguide/pyguide.html#s3.2-line-length) for Python.
 
