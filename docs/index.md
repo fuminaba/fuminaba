@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Welcome
-permalink: /index/
+title: Fumi Inaba
+
 ---
 
 # Welcome to My Site
 This is my personal site built with Markdown and Jekyll.
-
-- [About Me](about.md)
-- [Projects](projects.md)
