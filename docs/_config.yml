@@ -1,3 +1,13 @@
 theme: minima  # Or any supported Jekyll theme
-title: My Website
-description: Welcome to my GitHub Pages site!
+
+# Enable navigation links
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
+# Site details
+title: My Personal Site
+author: Fuminaba
+description: "Welcome to my site powered by Jekyll"
