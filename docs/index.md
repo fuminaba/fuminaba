@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Welcome
+permalink: /index/
 ---
 
 # Welcome to My Site
