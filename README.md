@@ -9,6 +9,7 @@ My research is in digital pathology image analysis, and involves the use of conv
     <img src = "Images/tensorflow_logo.png" height = 75px />  
     <img src="Images/scikit-learn-logo.svg" height = 75px/>
     <img src="Images/Tidyverse_hex_logo.png" height = 75px />
+    <img src="Images/pytorch-logo.png" height = 75px />
 </div> 
 
 All code follows the [google style guide](https://google.github.io/styleguide/pyguide.html#s3.2-line-length) for Python.

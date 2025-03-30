@@ -3,11 +3,10 @@ theme: minima  # Or any supported Jekyll theme
 # Enable navigation links
 header_pages:
   - index.md
-  - about.md
   - projects.md
   - contact.md
 
 # Site details
-title: My Personal Site
+title: Research Profile
 author: Fuminaba
 description: "Welcome to my site powered by Jekyll"
