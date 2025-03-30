@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fumi Inaba Research Profile
+title: Biography
 
 ---
 
