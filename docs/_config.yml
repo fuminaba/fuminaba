@@ -1,4 +1,7 @@
-theme: minima  # Or any supported Jekyll theme
+# theme: minima  # Or any supported Jekyll theme
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 
 # Enable navigation links
 header_pages:
